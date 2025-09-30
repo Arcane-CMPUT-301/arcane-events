@@ -1,2 +1,12 @@
 # arcane-events
-Project Repository
+
+Course: CMPUT 301 (Fall 2025)
+
+Org: CMPUT301F25indigo  
+Repo URL: https://github.com/CMPUT301F25arcane/arcane-events
+
+## Team
+See `doc/team.txt` for GitHub usernames.
+
+## How to build/run
+TBD.
